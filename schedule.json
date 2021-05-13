@@ -1,0 +1,18 @@
+[
+    {
+      "Destination": "Cancun, Mexico",
+      "Date": "August 1",
+      "Port": "Miami, Florida"    
+    },
+    {
+      "Destination": "Kingston, Bahamas",
+      "Date": "August 15",
+      "Port": "Washington, DC"    
+    },
+    {
+      "Destination": "Roseau, Dominica",
+      "Date": "August 30",
+      "Port": "Orlando, Florida"
+
+    }
+  ]
