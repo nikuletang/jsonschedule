@@ -1,0 +1,12 @@
+{
+	"schedule": [
+	  { "destination": "Cancun", "departure": "Orlando", "date": "August 1" },
+	  { "destination": "Nassau", "departure": "San Francisco", "date": "August 6" },
+	  { "destination": "Kingston", "departure": "Washington DC", "date": "August 13" },
+	  { "destination": "Montego Bay", "departure": "Miami", "date": "August 18" },
+	  { "destination": "Roseau", "departure": "Miami", "date": "August 18" },
+	  { "destination": "Belmopan", "departure": "Orlando", "date": "August 22" },
+	  { "destination": "Mexico City", "departure": "Miami", "date": "August 25" },
+	  { "destination": "Nassau", "departure": "Washington DC", "date": "August 30" }		
+	]
+  }  
